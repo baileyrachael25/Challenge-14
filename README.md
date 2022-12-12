@@ -1,6 +1,8 @@
-## Title
+## MVC Tech Blog
 
 ## Description
+This application is a CMS-style blog site, users can create an account, post their own blog posts, and comment on blog posts made by other users.
+This application uses RESTFUL API to complete user requests to the server, and a Model View Controller structure to render back-end data to the front-end.
 
 ## Table of Contents
 - [Screenshot of Deployed Application](#deployed)
