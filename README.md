@@ -10,7 +10,7 @@ This application uses RESTFUL API to complete user requests to the server, and a
 - [Deployment Link](#deployment)
 - [Questions](#questions)
 
-##Installation
+## Installation
 Clone the repository and make sure you have node installed on your machine.
 Run the command 'npm i' in the terminal to install the packages for the dependencies.
 Then run 'npm start' in the terminal to start the server.
